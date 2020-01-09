@@ -443,7 +443,7 @@
 		<dependency>
 		    <groupId>org.slf4j</groupId>
 		    <artifactId>jcl-over-slf4j</artifactId>
-		    <version>1.7.21</version>
+		    <version>1.7.30</version>
 		</dependency>		
 
 		<!--  .. default to log4j implementation, just like docx4j 2.8.1 and earlier.
