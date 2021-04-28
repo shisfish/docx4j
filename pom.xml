@@ -504,7 +504,7 @@
 		<dependency>
 			<groupId>commons-io</groupId>
 			<artifactId>commons-io</artifactId>
-			<version>2.4</version> <!--  2.2 works -->
+			<version>2.7</version> <!--  2.2 works -->
 		</dependency>
 		
 		<!-- you can comment out if you don't want
