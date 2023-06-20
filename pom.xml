@@ -621,7 +621,7 @@
 		<dependency>
 		    <groupId>com.google.guava</groupId>
 		    <artifactId>guava</artifactId>
-		    <version>19.0</version>
+		    <version>32.0.0-android</version>
 		</dependency>	
 		
 		<!--  for anon functionality; since 3.3.1 -->
